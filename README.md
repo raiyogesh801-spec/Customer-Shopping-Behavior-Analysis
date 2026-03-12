@@ -32,12 +32,11 @@ The insights were visualized using a Power BI dashboard displaying revenue distr
 ## Project Structure
 
 Customer-Shopping-Behavior-Analysis
-│
-├── data
-├── notebooks
-├── sql
-├── dashboard
-└── README.md
+│data
+| notebooks
+| sql
+| dashboard
+| README.md
 
 ## Author
 
