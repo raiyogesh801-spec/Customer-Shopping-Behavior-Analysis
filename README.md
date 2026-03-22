@@ -26,8 +26,7 @@ The analysis was conducted using Python (Pandas) for data processing and SQL que
 
 The insights were visualized using a Power BI dashboard displaying revenue distribution, sales trends, and customer behavior patterns.
 
-<img width="1168" height="634" alt="image" src="https://github.com/user-attachments/assets/4f370c5e-3ee7-45ae-8e29-aa439dbc1c00" />
-
+<img width="1511" height="775" alt="image" src="https://github.com/user-attachments/assets/9dd8005a-a04f-4665-a8b1-ffc25dc96f8f" />
 
 ## Project Structure
 
